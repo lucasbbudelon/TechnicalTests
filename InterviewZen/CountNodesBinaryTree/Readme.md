@@ -1,5 +1,4 @@
-﻿#Description
-Consider the following structure being used to store a binary tree.
+﻿Consider the following structure being used to store a binary tree.
 
  ```csharp
     class Node
